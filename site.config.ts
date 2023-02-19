@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Design Inspiration Gmuend',
-  domain: 'design-inspiration-gd.netlify.app',
+  domain: 'design-inspiration-gmuend.vercel.app',
   author: 'Freya Michl',
 
   // open graph metadata (optional)
